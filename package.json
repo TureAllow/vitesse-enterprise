@@ -120,7 +120,7 @@
     "vite-plugin-pages": "^0.28.0",
     "vite-plugin-pwa": "^0.14.7",
     "vite-plugin-vue-inspector": "^2.0.4",
-    "vite-plugin-vue-layouts": "^0.7.0",
+    "vite-plugin-vue-layouts": "^0.8.0",
     "vite-plugin-vue-markdown": "^0.22.6",
     "vite-ssg": "^0.22.2",
     "vite-ssg-sitemap": "^0.4.3",
